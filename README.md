@@ -28,11 +28,11 @@ Antes da implementação deste projeto, a análise de performance era fragmentad
 Aqui você insere os prints que me mostrou:
 
 ### 1. Visão Macro e Metas
-![Visão Macro](imagens/Visão_macro.png)
+![Visão Macro](imagens/Visao_macro.png)
 *Acompanhamento de faturamento acumulado vs. meta mensal por loja.*
 
 ### 2. Performance de Marketing (Ads)
-![Marketing](imagens/print_marketing.png)
+![Marketing](imagens/Marketing.png)
 *Análise detalhada de ROAS (Return on Ad Spend) e CPL (Custo por Lead).*
 
 ---
@@ -53,5 +53,5 @@ O projeto não apenas visualizou dados, mas gerou ações:
 ---
 
 ## 📧 Contato
-* **LinkedIn:** [Seu Link do LinkedIn aqui]
-* **Email:** [Seu Email aqui]
+* **LinkedIn:** [https://www.linkedin.com/in/caua-rissatto/]
+* **Email:** [cauarissatto05@gmail.com]
