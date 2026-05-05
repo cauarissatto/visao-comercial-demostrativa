@@ -37,6 +37,21 @@ Aqui você insere os prints que me mostrou:
 
 ---
 
+## 🧠 Exemplo de Lógica DAX
+
+Faturamento Acumulado = 
+VAR FatAtual = [Fat total]
+RETURN
+CALCULATE(
+    [Fat total],
+    FILTER(
+        ALLSELECTED('Produto, comercial e rent'[Modelo]), 
+        [Fat total] >= FatAtual
+    )
+)
+
+---
+
 ## 💡 Insights e Resultados Gerados
 
 O projeto não apenas visualizou dados, mas gerou ações:
